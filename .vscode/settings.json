@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp"
+    },
+    "vscode-pets.petType": "rocky",
+    "vscode-pets.petSize": "large",
+    "vscode-pets.petColor": "gray"
+}
