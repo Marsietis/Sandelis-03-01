@@ -12,7 +12,7 @@ Programa gali isvesti deziu, esanciu sandelyje, sarasa, bei sandelyje likusia vi
 
 
 Naudojimas:
-  Pasirinkite sandelio didi.
+  Pasirinkite sandelio dydi.
   # Galima pasirinkti is dvieju skirtingu sandelio ismatavimu.
   
  Pagrindinis meniu:
