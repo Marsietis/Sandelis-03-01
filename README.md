@@ -29,7 +29,7 @@ Naudojimas:
     [4] Baigti programos darba
     # Baigimas programos darbas.
     
-Programos veikimas:
+# Programos veikimas:
   Pagrindines programos veikimo funkcijos:
 
     int main()
