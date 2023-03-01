@@ -1,6 +1,7 @@
 # Sandelis-03-01
 Sandelio valdymo programa
 
+TO DO: a lot
 
 //Philosophy behind program: Petty console UI hides ugly and buggy code :)
 
