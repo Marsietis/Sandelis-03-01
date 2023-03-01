@@ -1,6 +1,10 @@
 # Sandelis-03-01
 Sandelio valdymo programa
 
+#Philosophy behind program:
+Make program work well (Hell no)
+Make program pretty (absolutely)
+
 Pasirinkus sandelio ismatavimus galima ivesti kiek norite deziu is 4 standartiniu deziu pasirinkimu.
 Deziu dydziai:
 box1 = 2x2x2
