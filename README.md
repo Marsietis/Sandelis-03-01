@@ -13,9 +13,9 @@ Programa gali isvesti deziu, esanciu sandelyje, sarasa, bei sandelyje likusia vi
 
 Naudojimas:
   Pasirinkite sandelio dydi.
-  # Galima pasirinkti is dvieju skirtingu sandelio ismatavimu.
+    Galima pasirinkti is dvieju skirtingu sandelio ismatavimu.
   
- Pagrindinis meniu:
+ # Pagrindinis meniu:
  
     [1] Prideti deziu
     # Ivedama kiek ir kokiu ismatavimo deziu norima prideti i sandeli. Jei dezes telpa, jos yra patalpinamos i sandely, jei ne - perspeja kad dezes netelpa sandelyje.
