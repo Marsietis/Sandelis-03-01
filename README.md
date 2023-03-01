@@ -2,8 +2,7 @@
 Sandelio valdymo programa
 
 
-//Philosophy behind program:
-//Petty console UI hides ugly and buggy code :)
+//Philosophy behind program: Petty console UI hides ugly and buggy code :)
 
 
 Pasirinkus sandelio ismatavimus galima ivesti kiek norite deziu is 4 standartiniu deziu pasirinkimu.
