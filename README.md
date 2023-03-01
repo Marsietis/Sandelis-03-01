@@ -2,6 +2,7 @@
 Sandelio valdymo programa
 
 Philosophy behind program:
+
 Make program work well and keep code tidy -- (Hell no),
 Make programs console ui pretty -- (absolutely)
 
