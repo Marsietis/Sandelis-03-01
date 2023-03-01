@@ -1,7 +1,7 @@
 # Sandelis-03-01
 Sandelio valdymo programa
 
-#Philosophy behind program:
+Philosophy behind program:
 Make program work well (Hell no)
 Make program pretty (absolutely)
 
