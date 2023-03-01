@@ -3,7 +3,6 @@ Sandelio valdymo programa
 
 
 //Philosophy behind program:
-
 //Petty console UI hides ugly and buggy code :)
 
 
