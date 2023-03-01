@@ -4,8 +4,7 @@ Sandelio valdymo programa
 
 //Philosophy behind program:
 
-//Make program work well and keep code tidy -- (Hell no),
-//Make programs console ui pretty -- (absolutely)
+//Petty console UI hides ugly and buggy code :)
 
 
 Pasirinkus sandelio ismatavimus galima ivesti kiek norite deziu is 4 standartiniu deziu pasirinkimu.
